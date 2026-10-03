@@ -1,0 +1,5 @@
+venv/
+*.csv
+__pycache__/
+build_log.txt
+.ipynb_checkpoints/
